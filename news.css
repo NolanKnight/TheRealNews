@@ -1,0 +1,12 @@
+nav {
+  width:100%;
+  position:absolute;
+  top:0;
+  left:0;
+  background-color:black;
+  color:greenyellow; 
+  height:60px; 
+}
+body {
+    background-color:cadetblue;
+}
